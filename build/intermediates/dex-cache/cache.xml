@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/.android/build-cache/9e108864b6862671e0af2ffdd2675159801228b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb3bbd2f05b6ad9b34c73d4a5f82f04675d55a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/.android/build-cache/f75c58e4d5a3d8f6d8f610939842b3fc2b7fbef3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d2df64369b1f760bfcc4cfa5a1d603f35332263/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/.android/build-cache/8f319bac46b0d2a5c923abe96e4d0e772ec6f574/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a065a4108b6e6c6e5696e3ff5e01913adb44ebe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_32dd99963387e78698091cf7448cf749e774376c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/.android/build-cache/36bd8126fc8351a09732719ea6bafee6ee9ac0d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ee9d51270f7aec3e403d52b08c818dbfaac68bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bfe7a36029e876eb2d6ca9450506ef4fc67442d">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dde7fe68a1eaefd3c8d3dddf6092ed88c4ecc87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/.android/build-cache/4f345c7dea1d8b5bb77a8db11166cf88acf0acb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7f55fe2a04390f1f1bae189a74eca8c79a2ae0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/.android/build-cache/3e66d18fc84d85c0e0b08b41a7e5eac77aa023c2/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_936471b1715235e86585088e0d30e705efe0422b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/.android/build-cache/3e66d18fc84d85c0e0b08b41a7e5eac77aa023c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d7c9e9c9a661f3b952cf654b7d34fbddb881e93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/JokerKing/Desktop/GoogleAppliedCS/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f60e9ac63d406accd9033218c101ca0360f9573a/classes.dex" />
+    </item>
+
+</items>
